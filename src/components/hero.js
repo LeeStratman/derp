@@ -26,7 +26,7 @@ const Hero = ({ openSidePanel }) => {
             </div>
           </div>
           <div className="mt-16 sm:mt-24 lg:mt-0 lg:col-span-6 lg:flex lg:items-center">
-            <div className="sm:max-w-md md:max-w-lg sm:mx-auto sm:rounded-lg sm:overflow-hidden">
+            <div className="sm:max-w-md md:max-w-lg sm:mx-auto sm:rounded-lg sm:overflow-hidden relative w-full video-container">
               <iframe
                 title="Trembling Music Video"
                 width="560"
