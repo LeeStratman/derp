@@ -7,23 +7,21 @@ const Album = () => {
         New Album
       </h2>
       <div className="lg:grid lg:grid-cols-12 lg:gap-8 mt-6">
-        <div className="px-4 sm:px-6 sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left lg:flex lg:items-center">
-          <div>
-            <iframe
-              title="derp album"
-              style={{
-                border: "1px solid white",
-                width: "350px",
-                height: "350px",
-              }}
-              src="https://bandcamp.com/EmbeddedPlayer/album=1077176655/size=large/bgcol=ffffff/linkcol=de270f/minimal=true/transparent=true/"
-              seamless
-            >
-              <a href="https://thatderpband.bandcamp.com/album/derp">
-                derp. by derp
-              </a>
-            </iframe>
-          </div>
+        <div className="px-4 sm:px-6 sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left lg:flex lg:items-center flex justify-center">
+          <iframe
+            title="derp album"
+            style={{
+              border: "1px solid white",
+              width: "350px",
+              height: "350px",
+            }}
+            src="https://bandcamp.com/EmbeddedPlayer/album=1077176655/size=large/bgcol=ffffff/linkcol=de270f/minimal=true/transparent=true/"
+            seamless
+          >
+            <a href="https://thatderpband.bandcamp.com/album/derp">
+              derp. by derp
+            </a>
+          </iframe>
         </div>
         <div className="px-4 sm:px-6 sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left lg:flex lg:items-center">
           <div>
