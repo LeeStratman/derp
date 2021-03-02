@@ -10,6 +10,7 @@ const MusicCloud = () => {
       <div className="mt-6 grid grid-cols-2 gap-0 md:grid-cols-4 lg:mt-6">
         <div className="col-span-1 flex justify-center py-8 px-8">
           <a
+            target="__blank"
             className="flex flex-col justify-center items-center"
             href="https://open.spotify.com/artist/1xjC302nv5t6FqJbJY63Bh?si=qSX8sr5_Q9COF6MFBwdcGQ"
           >
@@ -18,6 +19,7 @@ const MusicCloud = () => {
         </div>
         <div className="col-span-1 flex justify-center py-8 px-8">
           <a
+            target="__blank"
             className="flex flex-col justify-center items-center"
             href="https://music.apple.com/us/artist/derp/1554624471"
           >
@@ -26,6 +28,7 @@ const MusicCloud = () => {
         </div>
         <div className="col-span-1 flex justify-center py-8 px-8">
           <a
+            target="__blank"
             className="flex flex-col justify-center items-center"
             href="https://music.amazon.com/artists/B08KGX558B/derp"
           >
@@ -34,6 +37,7 @@ const MusicCloud = () => {
         </div>
         <div className="col-span-1 flex justify-center py-8 px-8">
           <a
+            target="__blank"
             className="flex flex-col justify-center items-center"
             href="https://music.youtube.com/playlist?list=OLAK5uy_kjikPE1mkhLRES9UNZXMwtlo232mD_HOM"
           >
