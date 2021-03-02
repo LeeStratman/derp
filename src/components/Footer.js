@@ -6,6 +6,7 @@ const Footer = () => {
       <div className="mx-auto pt-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
         <div className="flex justify-center space-x-6 md:order-2">
           <a
+            target="__blank"
             href="https://www.facebook.com/ThatDerpBand/"
             className="text-gray-400 hover:text-gray-500"
           >
@@ -25,6 +26,7 @@ const Footer = () => {
           </a>
 
           <a
+            target="__blank"
             href="https://twitter.com/thatderpband"
             className="text-gray-400 hover:text-gray-500"
           >
