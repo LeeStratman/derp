@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `derp.`,
     description: `A 4-piece pop-punk/rock band from Madison, WI`,
+    author: "derp",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
