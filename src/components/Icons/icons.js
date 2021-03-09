@@ -232,7 +232,6 @@ export const Pandora = () => {
       height="20"
       viewBox="0 0 98 20"
       role="img"
-      aria-labelledby="title_Pandora_-_Home"
     >
       <path
         fill="#ffffff"
