@@ -33,3 +33,15 @@
     height: 100%;
   }
 }
+
+@layer components {
+  .icon-link {
+    width: 100%;
+    height: 100%;
+  }
+
+  .icon-link svg {
+    width: 100%;
+    height: 100%;
+  }
+}

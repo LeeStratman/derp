@@ -9,8 +9,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <Hero />
-    <MusicCloud />
     <Album />
+    <MusicCloud />
   </Layout>
 )
 
