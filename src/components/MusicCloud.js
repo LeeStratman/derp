@@ -10,9 +10,9 @@ import {
 const MusicCloud = () => {
   return (
     <div className="relative overflow-hidden mt-16 sm:mt-24">
-      <p className="text-center text-base font-bold uppercase text-highlight tracking-wider">
+      <h2 className="text-center text-base font-bold uppercase text-highlight tracking-wider">
         FIND ON
-      </p>
+      </h2>
       <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 gap-0 md:grid-cols-5 lg:mt-6">
         <div className="col-span-1 flex justify-center py-8 px-8">
           <a
